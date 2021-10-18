@@ -17,4 +17,4 @@
 <a href="mailto: dullahdeepweb@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-email-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-☆ From(https://github.com/dullahxcode)
+☆ From [dullahxcode] (https://github.com/dullahxcode)
