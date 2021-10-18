@@ -17,4 +17,4 @@
 <a href="mailto: dullahdeepweb@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-email-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-☆ chat [WhatsApp](https://wa.me/6282349915082)
+chat [WhatsApp](https://wa.me/6282349915082)
